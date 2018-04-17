@@ -1,0 +1,33 @@
+{
+  "name": "koa-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "supervisor build/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengzaiku/node-koa-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengzaiku/node-koa-react/issues"
+  },
+  "homepage": "https://github.com/fengzaiku/node-koa-react#readme",
+  "dependencies": {
+    "koa": "^2.5.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-3": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "concurrency-logger": "^2.1.0",
+    "supervisor": "^0.12.0"
+  }
+}

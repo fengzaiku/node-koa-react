@@ -10,3 +10,163 @@
 200 [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m5ms GET[38;5;59m┈[0m ┴ /
 ──‣ 01:05:59 GET[38;5;59m┈[0m ┬ /favicon.ico
 200 [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m0ms GET[38;5;59m┈[0m ┴ /favicon.ico
+──‣ 23:57:51 GET[38;5;59m┈[0m ┬ /
+                  [38;5;196m╎[0m [38;5;196m{ Error: ENOENT: no such file or directory, stat 'F:\my_project\node-koa-react\build\views\index.html'[0m
+                  [38;5;196m╎[0m [38;5;196m  errno: -4058,[0m
+                  [38;5;196m╎[0m [38;5;196m  code: 'ENOENT',[0m
+                  [38;5;196m╎[0m [38;5;196m  syscall: 'stat',[0m
+                  [38;5;196m╎[0m [38;5;196m  path: 'F:\\my_project\\node-koa-react\\build\\views\\index.html' }[0m
+[38;5;196mERR[0m [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m7ms GET[38;5;59m┈[0m ┴ /
+──‣ 23:57:51 GET[38;5;59m┈[0m ┬ /favicon.ico
+[38;5;208m404[0m [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m0ms GET[38;5;59m┈[0m ┴ /favicon.ico
+──‣ 23:58:11 GET[38;5;59m┈[0m ┬ /
+                  [38;5;196m╎[0m [38;5;196m{ Error: ENOENT: no such file or directory, stat 'F:\my_project\node-koa-react\build\views\index.html'[0m
+                  [38;5;196m╎[0m [38;5;196m  errno: -4058,[0m
+                  [38;5;196m╎[0m [38;5;196m  code: 'ENOENT',[0m
+                  [38;5;196m╎[0m [38;5;196m  syscall: 'stat',[0m
+                  [38;5;196m╎[0m [38;5;196m  path: 'F:\\my_project\\node-koa-react\\build\\views\\index.html' }[0m
+[38;5;196mERR[0m [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m7ms GET[38;5;59m┈[0m ┴ /
+──‣ 23:58:13 GET[38;5;59m┈[0m ┬ /
+                  [38;5;196m╎[0m [38;5;196m{ Error: ENOENT: no such file or directory, stat 'F:\my_project\node-koa-react\build\views\index.html'[0m
+                  [38;5;196m╎[0m [38;5;196m  errno: -4058,[0m
+                  [38;5;196m╎[0m [38;5;196m  code: 'ENOENT',[0m
+                  [38;5;196m╎[0m [38;5;196m  syscall: 'stat',[0m
+                  [38;5;196m╎[0m [38;5;196m  path: 'F:\\my_project\\node-koa-react\\build\\views\\index.html' }[0m
+[38;5;196mERR[0m [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m1ms GET[38;5;59m┈[0m ┴ /
+──‣ 23:58:13 GET[38;5;59m┈[0m ┬ /
+                  [38;5;196m╎[0m [38;5;196m{ Error: ENOENT: no such file or directory, stat 'F:\my_project\node-koa-react\build\views\index.html'[0m
+                  [38;5;196m╎[0m [38;5;196m  errno: -4058,[0m
+                  [38;5;196m╎[0m [38;5;196m  code: 'ENOENT',[0m
+                  [38;5;196m╎[0m [38;5;196m  syscall: 'stat',[0m
+                  [38;5;196m╎[0m [38;5;196m  path: 'F:\\my_project\\node-koa-react\\build\\views\\index.html' }[0m
+[38;5;196mERR[0m [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m0ms GET[38;5;59m┈[0m ┴ /
+──‣ 23:58:13 GET[38;5;59m┈[0m ┬ /
+                  [38;5;196m╎[0m [38;5;196m{ Error: ENOENT: no such file or directory, stat 'F:\my_project\node-koa-react\build\views\index.html'[0m
+                  [38;5;196m╎[0m [38;5;196m  errno: -4058,[0m
+                  [38;5;196m╎[0m [38;5;196m  code: 'ENOENT',[0m
+                  [38;5;196m╎[0m [38;5;196m  syscall: 'stat',[0m
+                  [38;5;196m╎[0m [38;5;196m  path: 'F:\\my_project\\node-koa-react\\build\\views\\index.html' }[0m
+[38;5;196mERR[0m [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m1ms GET[38;5;59m┈[0m ┴ /
+──‣ 23:58:14 GET[38;5;59m┈[0m ┬ /
+                  [38;5;196m╎[0m [38;5;196m{ Error: ENOENT: no such file or directory, stat 'F:\my_project\node-koa-react\build\views\index.html'[0m
+                  [38;5;196m╎[0m [38;5;196m  errno: -4058,[0m
+                  [38;5;196m╎[0m [38;5;196m  code: 'ENOENT',[0m
+                  [38;5;196m╎[0m [38;5;196m  syscall: 'stat',[0m
+                  [38;5;196m╎[0m [38;5;196m  path: 'F:\\my_project\\node-koa-react\\build\\views\\index.html' }[0m
+[38;5;196mERR[0m [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m1ms GET[38;5;59m┈[0m ┴ /
+──‣ 23:58:14 GET[38;5;59m┈[0m ┬ /
+                  [38;5;196m╎[0m [38;5;196m{ Error: ENOENT: no such file or directory, stat 'F:\my_project\node-koa-react\build\views\index.html'[0m
+                  [38;5;196m╎[0m [38;5;196m  errno: -4058,[0m
+                  [38;5;196m╎[0m [38;5;196m  code: 'ENOENT',[0m
+                  [38;5;196m╎[0m [38;5;196m  syscall: 'stat',[0m
+                  [38;5;196m╎[0m [38;5;196m  path: 'F:\\my_project\\node-koa-react\\build\\views\\index.html' }[0m
+[38;5;196mERR[0m [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m1ms GET[38;5;59m┈[0m ┴ /
+──‣ 23:58:14 GET[38;5;59m┈[0m ┬ /
+                  [38;5;196m╎[0m [38;5;196m{ Error: ENOENT: no such file or directory, stat 'F:\my_project\node-koa-react\build\views\index.html'[0m
+                  [38;5;196m╎[0m [38;5;196m  errno: -4058,[0m
+                  [38;5;196m╎[0m [38;5;196m  code: 'ENOENT',[0m
+                  [38;5;196m╎[0m [38;5;196m  syscall: 'stat',[0m
+                  [38;5;196m╎[0m [38;5;196m  path: 'F:\\my_project\\node-koa-react\\build\\views\\index.html' }[0m
+[38;5;196mERR[0m [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m1ms GET[38;5;59m┈[0m ┴ /
+──‣ 23:58:14 GET[38;5;59m┈[0m ┬ /
+                  [38;5;196m╎[0m [38;5;196m{ Error: ENOENT: no such file or directory, stat 'F:\my_project\node-koa-react\build\views\index.html'[0m
+                  [38;5;196m╎[0m [38;5;196m  errno: -4058,[0m
+                  [38;5;196m╎[0m [38;5;196m  code: 'ENOENT',[0m
+                  [38;5;196m╎[0m [38;5;196m  syscall: 'stat',[0m
+                  [38;5;196m╎[0m [38;5;196m  path: 'F:\\my_project\\node-koa-react\\build\\views\\index.html' }[0m
+[38;5;196mERR[0m [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m1ms GET[38;5;59m┈[0m ┴ /
+──‣ 23:58:15 GET[38;5;59m┈[0m ┬ /
+                  [38;5;196m╎[0m [38;5;196m{ Error: ENOENT: no such file or directory, stat 'F:\my_project\node-koa-react\build\views\index.html'[0m
+                  [38;5;196m╎[0m [38;5;196m  errno: -4058,[0m
+                  [38;5;196m╎[0m [38;5;196m  code: 'ENOENT',[0m
+                  [38;5;196m╎[0m [38;5;196m  syscall: 'stat',[0m
+                  [38;5;196m╎[0m [38;5;196m  path: 'F:\\my_project\\node-koa-react\\build\\views\\index.html' }[0m
+[38;5;196mERR[0m [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m1ms GET[38;5;59m┈[0m ┴ /
+──‣ 23:58:15 GET[38;5;59m┈[0m ┬ /
+                  [38;5;196m╎[0m [38;5;196m{ Error: ENOENT: no such file or directory, stat 'F:\my_project\node-koa-react\build\views\index.html'[0m
+                  [38;5;196m╎[0m [38;5;196m  errno: -4058,[0m
+                  [38;5;196m╎[0m [38;5;196m  code: 'ENOENT',[0m
+                  [38;5;196m╎[0m [38;5;196m  syscall: 'stat',[0m
+                  [38;5;196m╎[0m [38;5;196m  path: 'F:\\my_project\\node-koa-react\\build\\views\\index.html' }[0m
+[38;5;196mERR[0m [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m1ms GET[38;5;59m┈[0m ┴ /
+──‣ 23:58:15 GET[38;5;59m┈[0m ┬ /
+                  [38;5;196m╎[0m [38;5;196m{ Error: ENOENT: no such file or directory, stat 'F:\my_project\node-koa-react\build\views\index.html'[0m
+                  [38;5;196m╎[0m [38;5;196m  errno: -4058,[0m
+                  [38;5;196m╎[0m [38;5;196m  code: 'ENOENT',[0m
+                  [38;5;196m╎[0m [38;5;196m  syscall: 'stat',[0m
+                  [38;5;196m╎[0m [38;5;196m  path: 'F:\\my_project\\node-koa-react\\build\\views\\index.html' }[0m
+[38;5;196mERR[0m [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m0ms GET[38;5;59m┈[0m ┴ /
+──‣ 23:58:16 GET[38;5;59m┈[0m ┬ /
+                  [38;5;196m╎[0m [38;5;196m{ Error: ENOENT: no such file or directory, stat 'F:\my_project\node-koa-react\build\views\index.html'[0m
+                  [38;5;196m╎[0m [38;5;196m  errno: -4058,[0m
+                  [38;5;196m╎[0m [38;5;196m  code: 'ENOENT',[0m
+                  [38;5;196m╎[0m [38;5;196m  syscall: 'stat',[0m
+                  [38;5;196m╎[0m [38;5;196m  path: 'F:\\my_project\\node-koa-react\\build\\views\\index.html' }[0m
+[38;5;196mERR[0m [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m1ms GET[38;5;59m┈[0m ┴ /
+──‣ 23:58:16 GET[38;5;59m┈[0m ┬ /
+                  [38;5;196m╎[0m [38;5;196m{ Error: ENOENT: no such file or directory, stat 'F:\my_project\node-koa-react\build\views\index.html'[0m
+                  [38;5;196m╎[0m [38;5;196m  errno: -4058,[0m
+                  [38;5;196m╎[0m [38;5;196m  code: 'ENOENT',[0m
+                  [38;5;196m╎[0m [38;5;196m  syscall: 'stat',[0m
+                  [38;5;196m╎[0m [38;5;196m  path: 'F:\\my_project\\node-koa-react\\build\\views\\index.html' }[0m
+[38;5;196mERR[0m [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m0ms GET[38;5;59m┈[0m ┴ /
+──‣ 23:58:16 GET[38;5;59m┈[0m ┬ /
+                  [38;5;196m╎[0m [38;5;196m{ Error: ENOENT: no such file or directory, stat 'F:\my_project\node-koa-react\build\views\index.html'[0m
+                  [38;5;196m╎[0m [38;5;196m  errno: -4058,[0m
+                  [38;5;196m╎[0m [38;5;196m  code: 'ENOENT',[0m
+                  [38;5;196m╎[0m [38;5;196m  syscall: 'stat',[0m
+                  [38;5;196m╎[0m [38;5;196m  path: 'F:\\my_project\\node-koa-react\\build\\views\\index.html' }[0m
+[38;5;196mERR[0m [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m1ms GET[38;5;59m┈[0m ┴ /
+──‣ 23:58:35 GET[38;5;59m┈[0m ┬ /
+                  [38;5;196m╎[0m [38;5;196m{ Error: ENOENT: no such file or directory, stat 'F:\my_project\node-koa-react\build..\views\index.html'[0m
+                  [38;5;196m╎[0m [38;5;196m  errno: -4058,[0m
+                  [38;5;196m╎[0m [38;5;196m  code: 'ENOENT',[0m
+                  [38;5;196m╎[0m [38;5;196m  syscall: 'stat',[0m
+                  [38;5;196m╎[0m [38;5;196m  path: 'F:\\my_project\\node-koa-react\\build..\\views\\index.html' }[0m
+[38;5;196mERR[0m [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m6ms GET[38;5;59m┈[0m ┴ /
+──‣ 23:58:36 GET[38;5;59m┈[0m ┬ /
+                  [38;5;196m╎[0m [38;5;196m{ Error: ENOENT: no such file or directory, stat 'F:\my_project\node-koa-react\build..\views\index.html'[0m
+                  [38;5;196m╎[0m [38;5;196m  errno: -4058,[0m
+                  [38;5;196m╎[0m [38;5;196m  code: 'ENOENT',[0m
+                  [38;5;196m╎[0m [38;5;196m  syscall: 'stat',[0m
+                  [38;5;196m╎[0m [38;5;196m  path: 'F:\\my_project\\node-koa-react\\build..\\views\\index.html' }[0m
+[38;5;196mERR[0m [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m1ms GET[38;5;59m┈[0m ┴ /
+──‣ 23:58:37 GET[38;5;59m┈[0m ┬ /
+                  [38;5;196m╎[0m [38;5;196m{ Error: ENOENT: no such file or directory, stat 'F:\my_project\node-koa-react\build..\views\index.html'[0m
+                  [38;5;196m╎[0m [38;5;196m  errno: -4058,[0m
+                  [38;5;196m╎[0m [38;5;196m  code: 'ENOENT',[0m
+                  [38;5;196m╎[0m [38;5;196m  syscall: 'stat',[0m
+                  [38;5;196m╎[0m [38;5;196m  path: 'F:\\my_project\\node-koa-react\\build..\\views\\index.html' }[0m
+[38;5;196mERR[0m [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m0ms GET[38;5;59m┈[0m ┴ /
+──‣ 23:59:32 GET[38;5;59m┈[0m ┬ /
+                  [38;5;196m╎[0m [38;5;196m{ Error: ENOENT: no such file or directory, stat 'F:\views\index.html'[0m
+                  [38;5;196m╎[0m [38;5;196m  errno: -4058,[0m
+                  [38;5;196m╎[0m [38;5;196m  code: 'ENOENT',[0m
+                  [38;5;196m╎[0m [38;5;196m  syscall: 'stat',[0m
+                  [38;5;196m╎[0m [38;5;196m  path: 'F:\\views\\index.html' }[0m
+[38;5;196mERR[0m [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m7ms GET[38;5;59m┈[0m ┴ /
+──‣ 00:00:23 GET[38;5;59m┈[0m ┬ /
+                  [38;5;196m╎[0m [38;5;196m{ Error: ENOENT: no such file or directory, stat 'F:\my_project\node-koa-react\build..\views\index.html'[0m
+                  [38;5;196m╎[0m [38;5;196m  errno: -4058,[0m
+                  [38;5;196m╎[0m [38;5;196m  code: 'ENOENT',[0m
+                  [38;5;196m╎[0m [38;5;196m  syscall: 'stat',[0m
+                  [38;5;196m╎[0m [38;5;196m  path: 'F:\\my_project\\node-koa-react\\build..\\views\\index.html' }[0m
+[38;5;196mERR[0m [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m6ms GET[38;5;59m┈[0m ┴ /
+──‣ 00:02:00 GET[38;5;59m┈[0m ┬ /
+                  [38;5;196m╎[0m [38;5;196m{ Error: ENOENT: no such file or directory, stat 'F:\my_project\node-koa-react\build..\views\index.html'[0m
+                  [38;5;196m╎[0m [38;5;196m  errno: -4058,[0m
+                  [38;5;196m╎[0m [38;5;196m  code: 'ENOENT',[0m
+                  [38;5;196m╎[0m [38;5;196m  syscall: 'stat',[0m
+                  [38;5;196m╎[0m [38;5;196m  path: 'F:\\my_project\\node-koa-react\\build..\\views\\index.html' }[0m
+[38;5;196mERR[0m [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m8ms GET[38;5;59m┈[0m ┴ /
+──‣ 00:02:46 GET[38;5;59m┈[0m ┬ /
+200 [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;220m164ms[0m GET[38;5;59m┈[0m [38;5;220m┴[0m /
+──‣ 00:03:18 GET[38;5;59m┈[0m ┬ /
+──‣ 00:08:17 GET[38;5;59m┈[0m ┬ /
+200 [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m16ms GET[38;5;59m┈[0m ┴ /
+──‣ 00:08:19 GET[38;5;59m┈[0m ┬ /
+200 [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m3ms GET[38;5;59m┈[0m ┴ /
+──‣ 00:19:19 GET[38;5;59m┈[0m ┬ /
+200 [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m17ms GET[38;5;59m┈[0m ┴ /
+──‣ 00:19:39 GET[38;5;59m┈[0m ┬ /
+200 [38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m[38;5;59m┈[0m20ms GET[38;5;59m┈[0m ┴ /

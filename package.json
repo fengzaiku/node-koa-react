@@ -28,6 +28,13 @@
     "babel-preset-stage-3": "^6.24.1",
     "babel-register": "^6.26.0",
     "concurrency-logger": "^2.1.0",
+    "ejs": "^2.5.8",
+    "koa-router": "^7.4.0",
+    "koa-views": "^6.1.4",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
     "supervisor": "^0.12.0"
   }
 }

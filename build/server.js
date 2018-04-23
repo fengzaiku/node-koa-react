@@ -17,7 +17,7 @@ app.use(views(path.resolve(__dirname ,'../views'), {
     }
   }));
 
-router.get('/',async function(ctx, next){
+router.get('/*',async function(ctx, next){
     await ctx.render('index', {
         body:react(ctx)
     });

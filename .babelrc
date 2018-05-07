@@ -1,0 +1,17 @@
+{
+    "presets": [
+        ["env",{ 
+            "modules": false 
+            }],
+        "react",
+        "stage-3"
+    ],
+    "plugins": [
+        "transform-runtime",
+        "syntax-dynamic-import",
+        ["import-inspector",{
+            "serverSideRequirePath": true,
+            "webpackRequireWeakId": true
+        }]
+    ]
+}

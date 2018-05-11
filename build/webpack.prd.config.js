@@ -7,12 +7,15 @@ const UglifyJSPlugin = require('uglifyjs-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const baseConfig = require('./webpack.base.config.js');
 const { ReactLoadablePlugin } = require('react-loadable/webpack')
+const OptimizeCSSAssetsPlugin = require("optimize-css-assets-webpack-plugin");// css压缩
 
 const prdWebpackConfig = merge(baseConfig, {
     mode:'production',
     devtool: "inline-source-map", 
     plugins: [
       new UglifyJSPlugin({
+        test: /\.js($|\?)/i,
+        cache: true,  
         sourceMap: true
       }),
       new ReactLoadablePlugin({
@@ -22,7 +25,8 @@ const prdWebpackConfig = merge(baseConfig, {
         template:"./index.html",
         inject: true,
         filename:"template.html"
-      })   
+      }),
+      new OptimizeCSSAssetsPlugin({})
     ]
 });
 rm(path.join(__dirname,"..","dist"), err => {

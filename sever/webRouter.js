@@ -31,12 +31,15 @@ export default function(ctx){
     let bundles = getBundles(stats, modules);
     let styles = bundles.filter(bundle => bundle.file.endsWith('.css'));
     let scripts = bundles.filter(bundle => bundle.file.endsWith('.js'));  
-
+    console.log(styles)
     return template
             .replace('<div id="app"></div>',`<div id="app">${html}</div>`)
+            .replace('</head>',`</head>${styles.map(style => {
+                return `<link rel="stylesheet" type="text/css" href="/${style.file}">`
+              }).join('\n')}`)
             .replace('</body>',`</body>${scripts.map(script => {
                 return `<script src="/${script.file}"></script>`
               }).join('\n')}
               <script>window.main();</script>`);
 }
-
+{/* <link rel="stylesheet" type="text/css" href="/css/0.02427.css"> */}

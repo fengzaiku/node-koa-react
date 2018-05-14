@@ -8,7 +8,22 @@ import { matchPath } from 'react-router'
 import HtmlBody from './webRouter'
 import WebRoutes from '../src/routers'
 
+const cacheControl = require('koa-cache-control');
+const conditional = require('koa-conditional-get');
+const etag = require('koa-etag');
+
 const app = new Koa();
+
+app.use(cacheControl({
+  maxAge:500
+}))
+// use it upstream from etag so
+// that they are present
+app.use(conditional());
+// add etags
+app.use(etag());
+
+
 var router = new Router();
 
 app.use(Serve(join(__dirname,'..','/dist/')));
